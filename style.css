@@ -20,6 +20,10 @@ body {
   filter: blur(8px);
   z-index: -1;
 }
+.content {
+  position: relative;
+  z-index: 1;
+}
 
 .center-img {
   display: block;       /* makes it a block element so margin works */
