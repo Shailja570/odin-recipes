@@ -9,7 +9,7 @@ body {
 }
 
 /* Blurred background */
-body::before {
+.bg-blur{
   content: "";
   position: fixed;
   top: 0;
